@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "minecraft earth.sln"
+    "dotnet.defaultSolution": "src.sln"
 }
