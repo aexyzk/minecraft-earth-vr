@@ -1,4 +1,1 @@
-# minecraft-earth-vr
-REMINDER TO UPDATE THE README
- 
- [Download](https://aexyzk.github.io/minecraftearth/) (Not Done Yet)
+uh this is unfinished idk when ill start working on it again msg me on discord if your interested @aexyzk
